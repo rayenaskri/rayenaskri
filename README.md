@@ -9,24 +9,14 @@ I'm currently **open to opportunities** as an Embedded Systems, IoT or Full-Stac
 
 ### 🛠️ Tech Stack
 
-**Languages:** C · C++ · Python · JavaScript · TypeScript  
-**Embedded & IoT:** ESP32 · Raspberry Pi · MQTT · RFID/NFC  
-**FPGA:** VHDL · Quartus · Vivado  
-**Web & Mobile:** React · React Native (Expo) · Node.js / Express · Socket.IO · Leaflet  
-**Databases & DevOps:** MongoDB · Docker · Nginx  
-**EDA & CAD:** Altium Designer · SolidWorks
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Espressif](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+| | |
+|---|---|
+| **Languages** | C · C++ · Python · JavaScript/TypeScript · VHDL |
+| **Hardware** | ESP32 · Raspberry Pi · FPGA |
+| **Protocols** | MQTT · RFID/NFC · WebSocket |
+| **Web & Mobile** | React · React Native · Node.js |
+| **Database & DevOps** | MongoDB · Docker · Nginx |
+| **Tools** | Altium Designer · SolidWorks · Vivado · Quartus |
 
 ---
 
